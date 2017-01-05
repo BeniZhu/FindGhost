@@ -1,6 +1,6 @@
 $('[data-toggle="tooltip"]').tooltip();
 // init wilddog
-findghost.init("zhuagui");
+findghost.init("zhuagui-86635");
 
 // override error handler
 findghost.handleError = function(error) {
